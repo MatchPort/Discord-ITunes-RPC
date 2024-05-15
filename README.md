@@ -1,6 +1,6 @@
 ### 🖥 Installation
 
-1. Clone the Find-Files repository:
+1. Clone the repository:
 ```sh
 git clone https://github.com/MatchPort/Discord-ITunes-RPC.git
 ```
